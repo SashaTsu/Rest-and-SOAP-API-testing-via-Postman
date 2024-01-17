@@ -1,4 +1,4 @@
-# Rest and SOAP API testing via Postman
+# 📬 Rest and SOAP API testing via Postman
 I tested all the methods from [petstore.swagger](https://petstore.swagger.io/) and created corresponding collections:
 <ul>
 <li> <a href="https://www.postman.com/orange-resonance-642752/workspace/team-workspace/collection/31409637-9f33fd37-df4c-44e4-8212-5a80d378a94a?action=share&creator=31409637&active-environment=31409637-594ad572-e6cc-4471-a148-c6d3fd8dc239">Postman collection for the petstore: REST</a> </li>
